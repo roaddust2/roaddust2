@@ -1,7 +1,7 @@
 <picture align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="hello_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="hello_light.png">
-  <img align="left"  width="150" height="150" alt="A girl with text 'Hello' on Tatar language">
+  <source media="(prefers-color-scheme: dark)" srcset="hello_dark.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="hello_light.jpg">
+  <img src="hello_light.jpg" align="left"  width="150" height="150" alt="A girl with text 'Hello' on Tatar language">
 </picture>
 
 ### roaddust2
