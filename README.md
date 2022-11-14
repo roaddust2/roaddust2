@@ -7,9 +7,9 @@
 ### roaddust2
 
 <p>Hello, y name is Mark, welcome to my GitHub page!</p>
-<a href="https://t.me/roaddust2" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/roaddust2" target="_blank">
   <img align="left" alt="roaddust2 Telegram" width="32px" src="telegram.png"></a>
-<a href="https://www.linkedin.com/in/roaddust2/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/roaddust2/" target="_blank">
   <img align="left" alt="roaddust2 LinkedIN" width="32px" src="linkedin.png"></a>
 <br>
 <br>
