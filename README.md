@@ -20,3 +20,5 @@ Currently learning Python at [Hexlet](https://ru.hexlet.io/) <br>
 ### My educational projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roaddust2&repo=python-project-lvl1)](https://github.com/roaddust2/python-project-lvl1)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roaddust2&repo=python-project-50)](https://github.com/roaddust2/python-project-50)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roaddust2&repo=python-project-83)]([https://github.com/roaddust2/python-project-50](https://github.com/roaddust2/python-project-83))
+
