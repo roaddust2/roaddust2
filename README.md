@@ -16,3 +16,9 @@
 
 ## About
 I'm a Business System Analyst (BA/BSA) <br>
+
+## Educational projects
+[#Hexlet. Python: "Brain games"](https://github.com/roaddust2/python-project-lvl1) <br>
+[#Hexlet. Python: "Gendiff"](https://github.com/roaddust2/python-project-50) <br>
+[#Hexlet. Python (Flask): "Page analyzer"](https://github.com/roaddust2/python-project-83) <br>
+[#Hexlet. Python (Django): "Task manager"](https://github.com/roaddust2/python-project-52) <br>
