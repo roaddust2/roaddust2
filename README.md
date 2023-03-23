@@ -16,4 +16,3 @@
 
 ## About
 I'm a Business System Analyst (BA/BSA) <br>
-Currently learning Python at [Hexlet](https://ru.hexlet.io/)
