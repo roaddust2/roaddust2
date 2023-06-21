@@ -15,7 +15,7 @@
 <br>
 
 ## About
-I'm a Business System Analyst (BA/BSA) <br>
+I'm a Python Back End Developer, switched from BA/BSA recently <br>
 
 ## Educational projects
 [#Hexlet. Python: "Brain games"](https://github.com/roaddust2/python-project-lvl1) <br>
