@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-Picture author: <a href="https://www.instagram.com/zn_yopte">@zn_yopte</a>
+Picture author: <a href="https://www.instagram.com/zn_yopte" target="_blank">@zn_yopte</a>
 
 ## About
 I'm a Python Back End Developer, switched from BA/BSA recently <br>
