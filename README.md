@@ -18,9 +18,12 @@
 I'm a Python Back End Developer, switched from BA/BSA recently <br>
 
 ## Educational projects
-[#Hexlet. Python: "Brain games"](https://github.com/roaddust2/python-project-lvl1) <br>
-[#Hexlet. Python: "Gendiff"](https://github.com/roaddust2/python-project-50) <br>
-[#Hexlet. Python (Flask): "Page analyzer"](https://github.com/roaddust2/python-project-83) <br>
-[#Hexlet. Python (Django): "Task manager"](https://github.com/roaddust2/python-project-52) <br>
-## My own projects
-[#WAIT!. Python (Django): Commerce website for local upcycle brand](https://github.com/roaddust2/wait-web) <br>
+- [Hexlet. Python: "Brain games"](https://github.com/roaddust2/python-project-lvl1) <br>
+- [Hexlet. Python: "Gendiff"](https://github.com/roaddust2/python-project-50) <br>
+- [Hexlet. Python (Flask): "Page analyzer"](https://github.com/roaddust2/python-project-83) <br>
+- [Hexlet. Python (Django): "Task manager"](https://github.com/roaddust2/python-project-52) <br>
+## Own projects
+### Non-profit
+- [outages-ge-bot. Python (aiogram): Telegram bot that notifies you of outages in Georgia (the country).](https://github.com/roaddust2/wait-web) <br>
+### Commercial
+- [wait-web. Python (Django): Website for local upcycle brand "WAIT!"](https://github.com/roaddust2/outages-ge-bot)
