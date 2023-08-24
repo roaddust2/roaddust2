@@ -26,6 +26,6 @@ I'm a Python Back End Developer, switched from BA/BSA recently <br>
 - [Hexlet. Python (Django): "Task manager"](https://github.com/roaddust2/python-project-52) <br>
 ## Own projects
 ### Non-profit
-- [outages-ge-bot. Python (aiogram): Telegram bot that notifies you of outages in Georgia (the country).](https://github.com/roaddust2/wait-web) <br>
+- [outages-ge-bot. Python (aiogram): Telegram bot that notifies you of outages in Georgia (the country).](https://github.com/roaddust2/outages-ge-bot) <br>
 ### Commercial
-- [wait-web. Python (Django): Website for local upcycle brand "WAIT!"](https://github.com/roaddust2/outages-ge-bot)
+- [wait-web. Python (Django): Website for local upcycle brand "WAIT!"](https://github.com/roaddust2/wait-web)
