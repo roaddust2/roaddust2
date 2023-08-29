@@ -17,7 +17,7 @@
 Picture author: <a href="https://www.instagram.com/zn_yopte">@zn_yopte</a>
 
 ## About
-I'm a Python Back End Developer, switched from BA/BSA recently <br>
+I'm a Python Developer, switched from BA/BSA recently <br>
 
 ## Educational projects
 - [Hexlet. Python: "Brain games"](https://github.com/roaddust2/python-project-lvl1) <br>
