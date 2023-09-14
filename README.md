@@ -19,8 +19,8 @@ Picture author: <a href="https://www.instagram.com/zn_yopte">@zn_yopte</a>
 ## About
 I'm a Python Developer, switched from BA/BSA recently <br>
 My CV:
-<a href="https://drive.google.com/file/d/1P99x4HXKBNuFh2zGmYbobd-acLt2mNCs/view?usp=sharing">English</a> | 
-<a href="https://drive.google.com/file/d/1FzDYUxySONG6sPusrJlCO-Yve76aN60K/view?usp=sharing">Russian</a>
+<a href="https://drive.google.com/file/d/1WVXngAar9M6VhJ78YDwYYcMg54wPHbpO/view?usp=sharing">English</a> | 
+<a href="https://drive.google.com/file/d/160N90-4uLVCdraareBSWNMu2uPm88yO6/view?usp=sharing">Russian</a>
 
 ## Educational projects
 - [Hexlet. Python: "Brain games"](https://github.com/roaddust2/python-project-lvl1) <br>
