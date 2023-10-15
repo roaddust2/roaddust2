@@ -17,17 +17,9 @@
 Picture author: <a href="https://www.instagram.com/zn_yopte">@zn_yopte</a>
 
 ## About
-I'm a Python Developer, switched from BA/BSA recently <br>
-My CV:
-<a href="https://drive.google.com/file/d/1WVXngAar9M6VhJ78YDwYYcMg54wPHbpO/view?usp=sharing">English</a> | 
-<a href="https://drive.google.com/file/d/160N90-4uLVCdraareBSWNMu2uPm88yO6/view?usp=sharing">Russian</a>
+I work as a BA/BSA but pretend that I'am a developer <br>
+My projects are listed below
 
-## Educational projects
-- [Hexlet. Python: "Brain games"](https://github.com/roaddust2/python-project-lvl1) <br>
-- [Hexlet. Python: "Gendiff"](https://github.com/roaddust2/python-project-50) <br>
-- [Hexlet. Python (Flask): "Page analyzer"](https://github.com/roaddust2/python-project-83) <br>
-- [Hexlet. Python (Django): "Task manager"](https://github.com/roaddust2/python-project-52) <br>
-## Own projects
 ### Non-profit
 - [outages-ge-bot. Python (aiogram): Telegram bot that notifies you of outages in Georgia (the country).](https://github.com/roaddust2/outages-ge-bot) <br>
 ### Commercial
