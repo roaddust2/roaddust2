@@ -21,6 +21,6 @@ I work as a BA/BSA but pretend that I'am a developer <br>
 My projects are listed below
 
 ### Non-profit
-- [outages-ge-bot. Python (aiogram): Telegram bot that notifies you of outages in Georgia (the country).](https://github.com/roaddust2/outages-ge-bot) <br>
+- [outages-ge-bot. Python (aiogram): Telegram bot that notifies you of outages in Georgia (the country)](https://github.com/roaddust2/outages-ge-bot) <br>
 ### Commercial
 - [wait-web. Python (Django): Website for local upcycle brand "WAIT!"](https://github.com/roaddust2/wait-web)
